@@ -1,6 +1,6 @@
 Hiya, I’m m-caeliusrufus!
 - Dutch
-- 15 y/o
+- 16 y/o
 - mainly a Python programmer, but you'll find the occassional PHP file here as well :)
 - learning Kotlin
 
